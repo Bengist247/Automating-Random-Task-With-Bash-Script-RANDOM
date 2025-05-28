@@ -1,0 +1,40 @@
+✴️ Automating Random Task in Bash With $RANDOM: Real World Organizational Solutions
+
+In many organizations, time and precision are critical. By using the $RANDOM variable in Bash scripting, we can automate repetitive decisions and secure operations, saving time and reducing human error.
+
+Below are three real-world use cases I automated using Bash scripting and $RANDOM:
+
+🔶 PICK A RANDOM USER FOR GROUP OR ORGANIZATIONAL TASK
+
+Manually selecting a team member for a quick task can be slow, biased, and inefficient.
+
+This eliminates bias and time wasted searching through system users.
+
+
+
+
+🔶 PICK RANDOM FILES FOR REVIEW AND EDITING 
+
+The stress of manually choosing files when working with hundreds of files in an open organizational directory is stressful and inefficient.
+
+
+
+
+🔶 CREATE SHA256-SUM TEMPORARY PASSWORD FOR USERS
+
+Creating secure, temporary passwords manually is time-consuming and insecure.
+
+Automating the creation of random SHA256-hashed passwords is fast and reliable.
+
+
+
+
+With just a few lines of code, Bash scripting and the $RANDOM variable empower system admins and DevOps engineers to:
+🔶 Eliminate human delays
+🔶 Enhance security
+🔶 Boost productivity
+
+These scripts can be integrated into cron jobs, automation pipelines, or interactive admin tools.
+
+Enjoy the Hands-On Practice video here:
+https://www.youtube.com/watch?v=hLYNAuXoAtI&t=4s
